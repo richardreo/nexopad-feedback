@@ -40,5 +40,6 @@ Connect your own API keys at cost without expensive monthly wrappers: **OpenAI, 
 
 ## 🌍 Important Links
 
-* **Website & Download:** [nexopad.app](https://nexopad.app)
-* **Privacy Policy:** [nexopad.app/privacy](https://nexopad.app/privacy)
+* 🏠 **Website:** [nexopad.app](https://nexopad.app) *(Discover all features)*
+* 🚀 **Install:** [Chrome Web Store](https://chromewebstore.google.com/detail/nexopad-expansor-de-texto/jjjmhgbdbepmledkcoalkfhnnnoignca) | [Firefox Add-ons](https://addons.mozilla.org/es-ES/firefox/addon/nexopad-atajos-notas-y-links/) | [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/nexopad-text-expander-n/nhikeinfjnkmfkigaieldijpeliapklj)
+* 🛡️ **Privacy Policy:** [nexopad.app/privacy](https://nexopad.app/privacy)
